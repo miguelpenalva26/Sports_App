@@ -1,17 +1,30 @@
-# sports_app
+# Sports App — Frontend 
+Dissertation project
+Miguel Penalva Caro
 
-A new Flutter project.
+## Description
+Flutter frontend for a lightweight sports facility booking system with backend validation and weather-based context-aware recommendations. Users can select a facility, choose a date and time, make bookings, and receive weather-based indoor/outdoor recommendations.
 
-## Getting Started
+## Characteristics
+- Facility selection and booking management
+- Real-time availability checking
+- Weather-based recommendations (indoor/outdoor)
+- Booking conflict detection
+- User authentication
 
-This project is a starting point for a Flutter application.
+## Requirements
+- Flutter SDK: https://flutter.dev/docs/get-started/install
+- Dart
 
-A few resources to get you started if this is your first Flutter project:
+## How to run
+1. Clone this repository
+2. Run `flutter pub get`
+3. Make sure the backend server is running on localhost:8000
+4. Run `flutter run`
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## Backend
+The Django REST backend is available at:  
+https://github.com/miguelpenalva26/Sports_App_Backend
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Demo video
+https://youtu.be/-RwF30kPmBk
