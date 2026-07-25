@@ -26,5 +26,3 @@ Flutter frontend for a lightweight sports facility booking system with backend v
 The Django REST backend is available at:  
 https://github.com/miguelpenalva26/Sports_App_Backend
 
-## Demo video
-https://youtu.be/-RwF30kPmBk
